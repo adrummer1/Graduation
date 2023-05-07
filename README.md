@@ -1,0 +1,2 @@
+# Graduation
+Graduation party repository
